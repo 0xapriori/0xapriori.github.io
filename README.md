@@ -1,5 +1,3 @@
-# Writing, Notes & Stuff
-
 ## 2024 - Writing, Notes & Stuff
 
 ### Anoma Research Forum
