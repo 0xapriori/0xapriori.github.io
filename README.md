@@ -2,8 +2,10 @@
 
 ## 2024
 
-### Notion Blog
+### Anoma Research Forum
+- [The comprehensive guide to writing blogposts](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471/1)
 
+### Notion Blog
 - [Essay on Values](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
 ### Anoma Research Fourm Notes
