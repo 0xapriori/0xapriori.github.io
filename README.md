@@ -94,7 +94,7 @@
 - [Reading List](https://hackmd.io/@0xapriori/rkOsp8kTj)
 
 
-## 2022
+## 2022 - Writing, Notes & Stuff
 
 ### Mirror Blogs
 
