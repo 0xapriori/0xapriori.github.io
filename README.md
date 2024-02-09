@@ -1,6 +1,6 @@
 # Writing, Notes & Stuff
 
-## 2024
+## 2024 - Writing, Notes & Stuff
 
 ### Anoma Research Forum
 - [The comprehensive guide to writing blogposts](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471/1)
@@ -15,7 +15,7 @@
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
 
-## 2023
+## 2023 - Writing, Notes, Podcasts, Presentations & Stuff
 
 ### Anoma Blog
 
