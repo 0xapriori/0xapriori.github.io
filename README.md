@@ -1,5 +1,7 @@
 ## 2024 - Writing, Notes & Stuff
 
+[Website](https://0xapriori.github.io)
+
 ### Anoma Research Forum
 - [The comprehensive guide to writing blogposts](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471/1)
 
