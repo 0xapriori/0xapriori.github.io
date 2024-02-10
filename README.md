@@ -32,6 +32,7 @@
 - [Anoma over a cup of Coffee](https://research.anoma.net/t/anoma-over-a-cup-of-coffee/249/6)
 - [Ideas on Architecutre (Specs) - diagrams, definitions, and framing](https://research.anoma.net/t/ideas-on-architecutre-specs-diagrams-definitions-and-framing/135)
 - [Rollups From the Future Aren't real](https://research.anoma.net/t/rollups-from-the-future-arent-real/69)
+- [A Beginner’s Mind Introduction to CoFi & MTCS](https://research.anoma.net/t/a-beginners-mind-introduction-to-cofi-mtcs/134?u=apriori)
 
 ### ZK Validator Blog
 
@@ -58,6 +59,7 @@
 - [Notes on the Autonomus Ecologist's Guide to Namada and Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273/1)
 - [Exploring Intents in a modular Architecture](https://research.anoma.net/t/exploring-intents-in-modular-architectures/136/2)
 - [Notes Realizing Intents with a Resource Model](https://research.anoma.net/t/realizing-intents-with-a-resource-model/73/2)
+- [Do Intents Exist outside of Twitter?!](https://research.anoma.net/t/do-intents-exist-outside-of-twitter/419)
 
 ### Twitter Threads 
 - [Public Signal Thread](https://x.com/apriori0x/status/1723077194518585525)
