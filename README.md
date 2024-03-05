@@ -48,7 +48,7 @@
 - [Anoma Applications at Good-Intentions](https://www.youtube.com/watch?v=rbiE9qxpZ9k)
 - [Intents Panel (Foresight Ventures)](https://www.youtube.com/watch?v=6VLJw2_synA)
 
-### Anoma Research Fourm Notes
+### Anoma Research Forum Notes
 - [Notes on Modular Blockchain Basics](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386/2?u=apriori)
 - [Notes on Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386/2)
 - [Notes on Do Intents exist outside of Twitter?!](https://research.anoma.net/t/do-intents-exist-outside-of-twitter/419/1)
