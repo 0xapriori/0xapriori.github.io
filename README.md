@@ -2,6 +2,11 @@
 
 [Website](https://0xapriori.github.io)
 
+### Presentations
+- [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) at mev.market
+- [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285)
+- [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) 
+
 ### Anoma Research Forum
 - [The comprehensive guide to writing blogposts](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471/1)
 
@@ -11,6 +16,7 @@
 ### Anoma Research Fourm Notes
 - [Notes on Ethereum in Numbers - Where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433/1)
+- [Notes on The Ecosustem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
 
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
