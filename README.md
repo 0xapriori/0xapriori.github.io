@@ -13,6 +13,9 @@
 ### Notion Blog
 - [Essay on Values](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
+### HackMD
+- [Mevitations on Molach](https://hackmd.io/V2CrQSNjTHiO2ITL4auJjQ?view=)
+
 ### Anoma Research Fourm Notes
 - [Notes on Ethereum in Numbers - Where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433/1)
