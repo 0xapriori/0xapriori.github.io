@@ -17,10 +17,9 @@
 - [Notes from CAKE Working Group v1 & v2](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
 
 ### Anoma Research Fourm Notes
-- [Notes from Jamming on Applications](https://research.anoma.net/t/notes-from-jamming-on-applications/414)
 - [Notes on Ethereum in Numbers - Where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433/1)
-- [Notes on The Ecosustem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
+- [Notes on The Ecosystem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
 
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
@@ -59,6 +58,7 @@
 - [Intents Panel (Foresight Ventures)](https://www.youtube.com/watch?v=6VLJw2_synA)
 
 ### Anoma Research Forum Notes
+- [Notes from Jamming on Applications](https://research.anoma.net/t/notes-from-jamming-on-applications/414)
 - [Notes on Modular Blockchain Basics](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386/2?u=apriori)
 - [Notes on Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386/2)
 - [Notes on Do Intents exist outside of Twitter?!](https://research.anoma.net/t/do-intents-exist-outside-of-twitter/419/1)
