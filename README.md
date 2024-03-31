@@ -15,7 +15,7 @@
 - [Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
 
 ### Flashbots Collective
-- [Information Protocol: Deriving a SUAPP from first principles (beginning with the ideal PFOF requirements)](https://collective.flashbots.net/t/information-protocol-deriving-a-suapp-from-first-principles-beginning-with-ideal-pfof-requirements-from-the-next-gen-dex-workshop/3210)
+- [Information Protocol: Deriving a SUAPP from first principles](https://collective.flashbots.net/t/information-protocol-deriving-a-suapp-from-first-principles-beginning-with-ideal-pfof-requirements-from-the-next-gen-dex-workshop/3210)
 
 ### Notion Blog
 - [Essay on Values](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
