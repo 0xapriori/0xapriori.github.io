@@ -25,9 +25,9 @@
 - [Notes from CAKE Working Group v1 & v2](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
 
 ### Anoma Research Fourm Notes
+- [Notes on The Ecosystem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
 - [Notes on Ethereum in Numbers - Where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433/1)
-- [Notes on The Ecosystem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
 
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
