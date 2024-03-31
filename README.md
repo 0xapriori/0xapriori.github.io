@@ -32,6 +32,9 @@
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
 
+### Twitter Blogs 
+- [If you run, you cannot lose](https://x.com/apriori0x/status/1770285317574000828?s=20)
+
 ## 2023 - Writing, Notes, Podcasts, Presentations & Stuff
 
 ### Anoma Blog
