@@ -3,10 +3,11 @@
 [Website](https://0xapriori.github.io)
 
 ### Presentations
+- [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
 - [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) at mev.market
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285)
 - [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) 
-- [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
+
 
 ### Github Website
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
