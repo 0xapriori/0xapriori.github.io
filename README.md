@@ -16,7 +16,7 @@
 
 ### Anoma Research Forum
 - [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539/2?u=apriori) 
-- [[Draft][Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
+- [[Draft] Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
 - [Time Banks are Tools for Coordination](https://research.anoma.net/t/time-banks-are-tools-for-coordination/526)
 
 ### Flashbots Collective
