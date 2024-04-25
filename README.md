@@ -6,14 +6,18 @@
 - [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
 - [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) at mev.market
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285)
-- [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) 
 
+###Panels
+- [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) at mev.market
+- [Panel on Interoperability](https://www.youtube.com/watch?v=ckGCrUm4d1g) at Cosmos Seoul
 
 ### Github Website
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
 
 ### Anoma Research Forum
-- [Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
+- [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539/2?u=apriori) 
+- [[Draft][Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
+- [Time Banks are Tools for Coordination](https://research.anoma.net/t/time-banks-are-tools-for-coordination/526)
 
 ### Flashbots Collective
 - [Information Protocol: Deriving a SUAPP from first principles](https://collective.flashbots.net/t/information-protocol-deriving-a-suapp-from-first-principles-beginning-with-ideal-pfof-requirements-from-the-next-gen-dex-workshop/3210)
@@ -32,7 +36,9 @@
 ### Repositories
 - [Modular](https://github.com/0xapriori/Modular)
 
-### Twitter Blogs 
+### Twitter Blogs / Threads
+- [Anoma Applications](https://x.com/apriori0x/status/1780203477022499320)
+- [Formalizing concurrent programs; the generalities](https://x.com/anoma/status/1776335979781202093)
 - [If you run, you cannot lose](https://x.com/apriori0x/status/1770285317574000828?s=20)
 
 ## 2023 - Writing, Notes, Podcasts, Presentations & Stuff
@@ -67,6 +73,7 @@
 
 - [Anoma Applications at Good-Intentions](https://www.youtube.com/watch?v=rbiE9qxpZ9k)
 - [Intents Panel (Foresight Ventures)](https://www.youtube.com/watch?v=6VLJw2_synA)
+- [Devconnect Istanbul Feature](https://youtu.be/QoPFqV6jCTI?feature=shared&t=288)
 
 ### Anoma Research Forum Notes
 - [Notes from Jamming on Applications](https://research.anoma.net/t/notes-from-jamming-on-applications/414)
