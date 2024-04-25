@@ -7,7 +7,7 @@
 - [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) at mev.market
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285)
 
-###Panels
+### Panels
 - [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) at mev.market
 - [Panel on Interoperability](https://www.youtube.com/watch?v=ckGCrUm4d1g) at Cosmos Seoul
 
