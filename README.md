@@ -42,6 +42,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
+- [Multichat thread](https://x.com/apriori0x/status/1783947642709725599)
 - [Anoma Applications](https://x.com/apriori0x/status/1780203477022499320)
 - [Formalizing concurrent programs; the generalities](https://x.com/anoma/status/1776335979781202093)
 - [If you run, you cannot lose](https://x.com/apriori0x/status/1770285317574000828?s=20)
