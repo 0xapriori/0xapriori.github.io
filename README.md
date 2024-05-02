@@ -2,10 +2,15 @@
 
 [Website](https://0xapriori.github.io)
 
-### Presentations
+### Anoma Blog 
+- [Envisioning Multichat: Exploring chat application architectures and Anoma's potential](https://anoma.net/blog/envisioning-multichat-exploring-chat-application-architectures-and-anoma-potential)
+
+### Slides
 - [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
-- [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) at mev.market
-- [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285)
+- [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) 
+
+### Presentations
+- [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
 ### Panels
 - [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) at mev.market
