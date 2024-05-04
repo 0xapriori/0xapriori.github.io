@@ -20,6 +20,7 @@
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
 
 ### Anoma Research Forum
+- [Intents Newsletter: Volume 1](https://research.anoma.net/t/intents-newsletter-volume-1/547)
 - [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539/2?u=apriori) 
 - [[Draft] Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
 - [Time Banks are Tools for Coordination](https://research.anoma.net/t/time-banks-are-tools-for-coordination/526)
@@ -27,7 +28,8 @@
 ### Flashbots Collective
 - [Information Protocol: Deriving a SUAPP from first principles](https://collective.flashbots.net/t/information-protocol-deriving-a-suapp-from-first-principles-beginning-with-ideal-pfof-requirements-from-the-next-gen-dex-workshop/3210)
 
-### Notion Blog
+### Essays
+- [Rhetorical Musings on Rhetoric, Emotional Messaging and Pathos](https://research.anoma.net/t/rhetorical-musings-on-rhetoric-emotional-messaging-and-pathos/553)
 - [Essay on Values](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
 ### HackMD
@@ -42,6 +44,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
+- [Intents Newsltter thread](https://x.com/apriori0x/status/1786372856374551005)
 - [Multichat thread](https://x.com/apriori0x/status/1783947642709725599)
 - [Anoma Applications](https://x.com/apriori0x/status/1780203477022499320)
 - [Formalizing concurrent programs; the generalities](https://x.com/anoma/status/1776335979781202093)
