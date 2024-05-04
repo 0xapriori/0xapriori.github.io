@@ -30,7 +30,7 @@
 
 ### Essays
 - [Rhetorical Musings on Rhetoric, Emotional Messaging and Pathos](https://research.anoma.net/t/rhetorical-musings-on-rhetoric-emotional-messaging-and-pathos/553)
-- [Essay on Values](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
+- [OG crypto valued don't mix with bringing tradfi On chain](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
 ### HackMD
 - [Notes from CAKE Working Group v1 & v2](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
