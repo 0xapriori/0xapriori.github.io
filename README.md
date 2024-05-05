@@ -30,7 +30,7 @@
 
 ### Essays
 - [Rhetorical Musings on Rhetoric, Emotional Messaging and Pathos](https://research.anoma.net/t/rhetorical-musings-on-rhetoric-emotional-messaging-and-pathos/553)
-- [OG crypto valued don't mix with bringing tradfi On chain](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
+- [OG crypto values don't mix with bringing tradfi On-chain](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
 ### HackMD
 - [Notes from CAKE Working Group v1 & v2](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
@@ -44,7 +44,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
-- [Intents Newsltter thread](https://x.com/apriori0x/status/1786372856374551005)
+- [Intents Newsletter thread](https://x.com/apriori0x/status/1786372856374551005)
 - [Multichat thread](https://x.com/apriori0x/status/1783947642709725599)
 - [Anoma Applications](https://x.com/apriori0x/status/1780203477022499320)
 - [Formalizing concurrent programs; the generalities](https://x.com/anoma/status/1776335979781202093)
