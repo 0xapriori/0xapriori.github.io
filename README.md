@@ -6,6 +6,7 @@
 - [Envisioning Multichat: Exploring chat application architectures and Anoma's potential](https://anoma.net/blog/envisioning-multichat-exploring-chat-application-architectures-and-anoma-potential)
 
 ### Slides
+- [tools for the socioeconomic renaissance](https://hackmd.io/sgg6u-k7QIO3OGUUM-_6Ng)
 - [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
 - [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) 
 
