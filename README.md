@@ -6,11 +6,12 @@
 - [Envisioning Multichat: Exploring chat application architectures and Anoma's potential](https://anoma.net/blog/envisioning-multichat-exploring-chat-application-architectures-and-anoma-potential)
 
 ### Slides
-- [tools for the socioeconomic renaissance](https://hackmd.io/sgg6u-k7QIO3OGUUM-_6Ng)
+- [Tools for the socioeconomic renaissance](https://hackmd.io/sgg6u-k7QIO3OGUUM-_6Ng)
 - [Anoma: A first principles journey from intents to applications (and everything in between)](https://hackmd.io/lDHWsKDFT6mkbetHqMM6rQ#/)
 - [A Path Dependenat Topology of MEV Discourse (from a historical perspective)](https://hackmd.io/ALGG9U8RSJ2FhWytMLRvTA?view=#/) 
 
 ### Presentations
+- [Tools for the socioeconomic renaissance (talk)](https://www.youtube.com/watch?v=3zrNo_yVXa0) at ETHPrague
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
 ### Panels
