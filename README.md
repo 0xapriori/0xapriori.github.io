@@ -15,6 +15,8 @@
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
 ### Panels
+- [The Solver Games](https://www.youtube.com/watch?v=skrU-YnH1PY&list=PL0JhdaMOBhSR0IkrXNx0XaHMjU34VO-2L&index=8) at Intents Discussions
+- [Leveraging Intents for Seamless Chain Abstraction](https://www.youtube.com/watch?v=P357jZVDwyc) at Chain Abstraction Day 
 - [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) at mev.market
 - [Panel on Interoperability](https://www.youtube.com/watch?v=ckGCrUm4d1g) at Cosmos Seoul
 
@@ -22,6 +24,8 @@
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
 
 ### Anoma Research Forum
+- [Event Planner: Anoma Application for Planning Events](https://research.anoma.net/t/event-planner-anoma-application-for-planning-events/710)
+- [Intents Newsletter: Volume 2](https://research.anoma.net/t/intents-newsletter-volume-2/691)
 - [Intents Newsletter: Volume 1](https://research.anoma.net/t/intents-newsletter-volume-1/547)
 - [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539/2?u=apriori) 
 - [[Draft] Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
