@@ -27,7 +27,7 @@
 - [Event Planner: Anoma Application for Planning Events](https://research.anoma.net/t/event-planner-anoma-application-for-planning-events/710)
 - [Intents Newsletter: Volume 2](https://research.anoma.net/t/intents-newsletter-volume-2/691)
 - [Intents Newsletter: Volume 1](https://research.anoma.net/t/intents-newsletter-volume-1/547)
-- [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539/2?u=apriori) 
+- [[Draft] Anoma is unbundling technology, literally](https://research.anoma.net/t/draft-v0-anoma-is-unbundling-technology-literally/539) 
 - [[Draft] Dreaming of Multichat: A chat application built with Anoma](https://research.anoma.net/t/dreaming-of-multichat-a-chat-application-built-with-anoma-draft/515?u=apriori)
 - [Time Banks are Tools for Coordination](https://research.anoma.net/t/time-banks-are-tools-for-coordination/526)
 
@@ -50,6 +50,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
+- [What people mean when they say "We don't have enough Applications"](https://x.com/apriori0x/status/1813726701395816566)
 - [Intents Newsletter thread](https://x.com/apriori0x/status/1786372856374551005)
 - [Multichat thread](https://x.com/apriori0x/status/1783947642709725599)
 - [Anoma Applications](https://x.com/apriori0x/status/1780203477022499320)
@@ -79,7 +80,7 @@
 
 ### ZK Validator Blog
 
-- [Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
+- [Data & Function Privacy Architectures](https://zkv.xyz/research-data-function-privacy-architectures/#Intro)
 
 ### E&Y White Paper
 - [An introduction to maximal extractable value on Ethereum](https://assets.ey.com/content/dam/ey-sites/ey-com/en_us/topics/financial-services/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf)
