@@ -15,6 +15,7 @@
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
 ### Panels
+- [Modularity and Intents](https://youtu.be/IS-Jm-Knh48?feature=shared&t=11) at Declerative Day 
 - [The Solver Games](https://www.youtube.com/watch?v=skrU-YnH1PY&list=PL0JhdaMOBhSR0IkrXNx0XaHMjU34VO-2L&index=8) at Intents Discussions
 - [Leveraging Intents for Seamless Chain Abstraction](https://www.youtube.com/watch?v=P357jZVDwyc) at Chain Abstraction Day 
 - [Panel on App Specific Sequencing](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=29463) at mev.market
