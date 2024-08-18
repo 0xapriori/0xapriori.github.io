@@ -1,7 +1,5 @@
 ## 2024 - Writing, Notes & Stuff
 
-[Website](https://0xapriori.github.io)
-
 ### Anoma Blog 
 - [Envisioning Multichat: Exploring chat application architectures and Anoma's potential](https://anoma.net/blog/envisioning-multichat-exploring-chat-application-architectures-and-anoma-potential)
 
