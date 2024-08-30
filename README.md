@@ -23,6 +23,7 @@
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
 
 ### Anoma Research Forum
+- [Intents Newsletter: Volume 3](https://research.anoma.net/t/intents-newsletter-volume-3/736)
 - [Event Planner: Anoma Application for Planning Events](https://research.anoma.net/t/event-planner-anoma-application-for-planning-events/710)
 - [Intents Newsletter: Volume 2](https://research.anoma.net/t/intents-newsletter-volume-2/691)
 - [Intents Newsletter: Volume 1](https://research.anoma.net/t/intents-newsletter-volume-1/547)
