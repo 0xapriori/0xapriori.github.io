@@ -39,7 +39,7 @@
 - [OG crypto values don't mix with bringing tradfi On-chain](https://immutablestate.notion.site/Essay-on-Values-b727cfc782864e61be28ebee4b0a557c)
 
 ### HackMD
-- [Notes from CAKE Working Group v1 & v2](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
+- [Notes from CAKE Working Group v1, v2 & v3](https://hackmd.io/DWu3qD-PQCOOn5QaEkuT5w)
 
 ### Anoma Research Fourm Notes
 - [Notes on The Ecosystem is moving](https://research.anoma.net/t/the-ecosystem-is-moving/477?u=apriori)
