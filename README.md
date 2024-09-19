@@ -54,6 +54,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
+- [On Vision](https://x.com/apriori0x/status/1832990436555702765)
 - [What people mean when they say "We don't have enough Applications"](https://x.com/apriori0x/status/1813726701395816566)
 - [Intents Newsletter thread](https://x.com/apriori0x/status/1786372856374551005)
 - [Multichat thread](https://x.com/apriori0x/status/1783947642709725599)
