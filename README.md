@@ -1,6 +1,7 @@
 ## 2024 - Writing, Notes & Stuff
 
 ### Anoma Blog 
+- [Slow Games](https://anoma.net/research/slow-games)
 - [Envisioning Multichat: Exploring chat application architectures and Anoma's potential](https://anoma.net/blog/envisioning-multichat-exploring-chat-application-architectures-and-anoma-potential)
 
 ### Slides
@@ -21,6 +22,7 @@
 
 ### Twitter Spaces
 - [Cross-chain intents & the modular ecosystem](https://x.com/anoma/status/1836056305854750765) Anoma x Celestia 
+- [Intents and cross-chain interop](https://x.com/anoma/status/1843368181374898263)
 
 ### Github Website
 - [The comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide/)
@@ -54,6 +56,7 @@
 - [Modular](https://github.com/0xapriori/Modular)
 
 ### Twitter Blogs / Threads
+- [Slow Games](https://x.com/apriori0x/status/1837125934513615186) 
 - [On Vision](https://x.com/apriori0x/status/1832990436555702765)
 - [What people mean when they say "We don't have enough Applications"](https://x.com/apriori0x/status/1813726701395816566)
 - [Intents Newsletter thread](https://x.com/apriori0x/status/1786372856374551005)
@@ -140,7 +143,7 @@
 ### HackMD
 
 - [Mevitations on Molach](https://hackmd.io/V2CrQSNjTHiO2ITL4auJjQ?view=)
-- [ZKML Notes](https://hackmd.io/ahtJsSbmTSah23uCkbog2w)
+- [ZKML Notes](https://hackmd.io/@apriori0x/Sy_7Zo7S2/edit)
 - [Mapping the Labyrinth](https://hackmd.io/@0xapriori/r1DrDnEkh)
 - [High Latency Governance](https://hackmd.io/@0xapriori/HJDnFgx-2)
 - [Notes on the Arbitrum Sequencer](https://hackmd.io/@0xapriori/HJG0luSx2)
