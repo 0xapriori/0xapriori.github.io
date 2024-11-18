@@ -21,6 +21,7 @@
 - [Panel on Interoperability](https://www.youtube.com/watch?v=ckGCrUm4d1g) at Cosmos Seoul
 
 ### Twitter Spaces
+- [Intents, Solvers, & ASS (Application Specific Sequencing)](https://x.com/i/spaces/1kvJpbjWYLdKE)
 - [Cross-chain intents & the modular ecosystem](https://x.com/anoma/status/1836056305854750765) Anoma x Celestia 
 - [Intents and cross-chain interop](https://x.com/anoma/status/1843368181374898263)
 
