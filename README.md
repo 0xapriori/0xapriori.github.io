@@ -14,10 +14,10 @@
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
 ### Panels
-- [Wtf are general Intents?](https://www.youtube.com/watch?v=uvuGPPyQC0I) at Intens & ChA Summit
-- [Intents & chain abstraction Endgame](https://www.youtube.com/watch?v=SKUzfiRZo8A&pp=ygUkaW50ZW50cyBhbmQgY2hhaW4gYWJzdHJhY3Rpb24gc3VtbWl0) at Intens & ChA Summit
-- [Intent-centric applications beyond DeFi](https://www.youtube.com/watch?v=k7RYPXGwPwk) at Intens & ChA Summit
-- [Intents and solvers are just ASS](https://www.youtube.com/watch?v=LHpybw9xHCA) at Intens & ChA Summit
+- [Wtf are general Intents?](https://www.youtube.com/watch?v=uvuGPPyQC0I) at Intents & CA Summit
+- [Intents & chain abstraction Endgame](https://www.youtube.com/watch?v=SKUzfiRZo8A&pp=ygUkaW50ZW50cyBhbmQgY2hhaW4gYWJzdHJhY3Rpb24gc3VtbWl0) at Intents & CA Summit
+- [Intent-centric applications beyond DeFi](https://www.youtube.com/watch?v=k7RYPXGwPwk) at Intents & CA Summit
+- [Intents and solvers are just ASS](https://www.youtube.com/watch?v=LHpybw9xHCA) at Intents & CA Summit
 - [Modularity and Intents](https://youtu.be/IS-Jm-Knh48?feature=shared&t=11) at Declerative Day 
 - [The Solver Games](https://www.youtube.com/watch?v=skrU-YnH1PY&list=PL0JhdaMOBhSR0IkrXNx0XaHMjU34VO-2L&index=8) at Intents Discussions
 - [Leveraging Intents for Seamless Chain Abstraction](https://www.youtube.com/watch?v=P357jZVDwyc) at Chain Abstraction Day 
