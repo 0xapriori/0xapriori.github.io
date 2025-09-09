@@ -1,3 +1,10 @@
+## 2025 - Writing, Notes & Stuff
+
+## Podcast
+
+- [Deeply Intents Podcast](https://dashboard.simplecast.com/accounts/90530818-d7e1-4d8f-b03c-0aae1574cbe8/shows/60b94322-71dc-4d2b-9604-65e3b4d02aea/episodes/)
+
+
 ## 2024 - Writing, Notes & Stuff
 
 ### Anoma Blog 
