@@ -13,6 +13,13 @@
 - [Anoma Protocol Adapter × NEAR Intents](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-near-intents/2657)
 - [Anoma Protocal Adapter x Across](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-across-protocol/2658)
 
+### Music Writing
+- [Music Essays](https://github.com/0xapriori/music-essays)
+- [Power Structures Revealed - Examining the American Recorded Music Industry](https://powerstructures.xyz/)
+
+### Music Curation App
+- [Music Nerd](https://t.me/the_glowing_bot)
+
 
 ## 2025 - Writing, Notes & Stuff
 
