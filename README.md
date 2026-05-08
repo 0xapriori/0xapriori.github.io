@@ -26,7 +26,7 @@
 - [Beyond HyperCow: From Local Maxima to Category Creation](https://forum.anoma.net/t/beyond-hypercow-from-local-maxima-to-category-creation/2255)
 - [An Enterprise Product is All You Need](https://forum.anoma.net/t/an-enterprise-product-is-all-you-need/2526)
 - [SPEEDEX Efficiency Analysis](https://forum.anoma.net/t/wip-speedex-efficiency-analysis/2111?u=apriori)
-- [AnomaVeil - DeFi TVL Marketplace]https://forum.anoma.net/t/ideation-anomaveil/2306?u=apriori
+- [AnomaVeil - DeFi TVL Marketplace](https://forum.anoma.net/t/ideation-anomaveil/2306?u=apriori)
 
 ### Presentations
 
