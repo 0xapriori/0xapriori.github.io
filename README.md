@@ -1,10 +1,34 @@
+## 2026 - Writing, Notes & Stuff
+
+### Podcast
+
+- [Deeply Intents Podcast](https://dashboard.simplecast.com/accounts/90530818-d7e1-4d8f-b03c-0aae1574cbe8/shows/60b94322-71dc-4d2b-9604-65e3b4d02aea/episodes/?tab=episodes)
+
+### Deep Research Reports & Essays
+- [Ethereum Reports](https://ethreportseth.xyz/) 
+
+### Product Writing
+- [Crossing the chasm with Shielded Actions](https://forum.anoma.net/t/crossing-the-chasm-with-shielded-actions/2586)
+- [Revisiting a Hardware Strategy for Anoma](https://forum.anoma.net/t/revisiting-a-hardware-strategy-for-anoma/2666)
+- [Anoma Protocol Adapter × NEAR Intents](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-near-intents/2657)
+- [Anoma Protocal Adapter x Across](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-across-protocol/2658)
+
+
 ## 2025 - Writing, Notes & Stuff
 
-## Podcast
+### Podcast
 
 - [Deeply Intents Podcast](https://dashboard.simplecast.com/accounts/90530818-d7e1-4d8f-b03c-0aae1574cbe8/shows/60b94322-71dc-4d2b-9604-65e3b4d02aea/episodes/)
 
-## Presentations
+### Product Writing
+- [Hypercow is a decentralized orderbook exchange built on Anoma](https://forum.anoma.net/t/rfc-hypercow-is-a-decentralized-orderbook-exchange-built-on-anoma/1350?u=apriori)
+- [VC Signal - MVP that solves crypto Fundraising](https://forum.anoma.net/t/rfc-vc-signal-public-signal-mvp-that-solves-crypto-fundraising/1488/1)
+- [Beyond HyperCow: From Local Maxima to Category Creation](https://forum.anoma.net/t/beyond-hypercow-from-local-maxima-to-category-creation/2255)
+- [An Enterprise Product is All You Need](https://forum.anoma.net/t/an-enterprise-product-is-all-you-need/2526)
+- [SPEEDEX Efficiency Analysis](https://forum.anoma.net/t/wip-speedex-efficiency-analysis/2111?u=apriori)
+- [AnomaVeil - DeFi TVL Marketplace]https://forum.anoma.net/t/ideation-anomaveil/2306?u=apriori
+
+### Presentations
 
 - [The Phenomenology of Token Games](https://hackmd.io/@apriori0x/B1KMuX-X0)
 
@@ -24,7 +48,7 @@
 - [Tools for the socioeconomic renaissance (talk)](https://www.youtube.com/watch?v=3zrNo_yVXa0) at ETHPrague
 - [A Path Dependenat Topology of MEV Discourse (talk)](https://www.youtube.com/live/YrAlAHbgRCk?feature=shared&t=2285) at mev.market
 
-### Panels
+### Event Panels
 - [Wtf are general Intents?](https://www.youtube.com/watch?v=uvuGPPyQC0I) at Intents & CA Summit
 - [Intents & chain abstraction Endgame](https://www.youtube.com/watch?v=SKUzfiRZo8A&pp=ygUkaW50ZW50cyBhbmQgY2hhaW4gYWJzdHJhY3Rpb24gc3VtbWl0) at Intents & CA Summit
 - [Intent-centric applications beyond DeFi](https://www.youtube.com/watch?v=k7RYPXGwPwk) at Intents & CA Summit
