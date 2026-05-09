@@ -1,8 +1,10 @@
 ## 2026 - Writing, Notes & Stuff
 
 ### Podcast
-
 - [Deeply Intents Podcast](https://dashboard.simplecast.com/accounts/90530818-d7e1-4d8f-b03c-0aae1574cbe8/shows/60b94322-71dc-4d2b-9604-65e3b4d02aea/episodes/?tab=episodes)
+
+### Github 
+- [Projects](https://github.com/0xapriori)
 
 ### Deep Research Reports & Essays
 - [Ethereum Reports](https://ethreportseth.xyz/) 
@@ -12,13 +14,8 @@
 - [Revisiting a Hardware Strategy for Anoma](https://forum.anoma.net/t/revisiting-a-hardware-strategy-for-anoma/2666)
 - [Anoma Protocol Adapter × NEAR Intents](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-near-intents/2657)
 - [Anoma Protocal Adapter x Across](https://forum.anoma.net/t/idea-anoma-protocol-adapter-x-across-protocol/2658)
-
-### Music Writing
-- [Music Essays](https://github.com/0xapriori/music-essays)
-- [Power Structures Revealed - Examining the American Recorded Music Industry](https://powerstructures.xyz/)
-
-### Music Curation App
-- [Music Nerd](https://t.me/the_glowing_bot)
+- [Shieleded Borrowing & Lending](https://forum.anoma.net/t/shielded-borrowing-lending/2645)
+- [Shielded Flashloans](https://forum.anoma.net/t/idea-shielded-flashloans/2652)
 
 
 ## 2025 - Writing, Notes & Stuff
