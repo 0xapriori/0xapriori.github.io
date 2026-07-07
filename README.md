@@ -137,7 +137,7 @@
 - [Data & Function Privacy Architectures](https://zkv.xyz/research-data-function-privacy-architectures/#Intro)
 
 ### E&Y White Paper
-- [An introduction to maximal extractable value on Ethereum](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/insights/financial-services/documents/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/insights/financial-services/documents/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf) 
+- [An introduction to maximal extractable value on Ethereum](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/insights/financial-services/documents/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf)
 
 ### Video Presentations
 
